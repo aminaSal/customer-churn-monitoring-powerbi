@@ -9,7 +9,7 @@ This project presents an interactive dashboard analyzing customer churn behavior
 - Churned Customers: 1,869
 - Churn Rate: 26.54%
 - Average Tenure: 32.37 months
-⚠️ The churn rate exceeds typical industry benchmarks (~20%), indicating a significant retention challenge.
+* The churn rate exceeds typical industry benchmarks (~20%), indicating a significant retention challenge.
 
 ## Key Insights
 
@@ -20,17 +20,17 @@ This project presents an interactive dashboard analyzing customer churn behavior
 Approximately 1 in 4 customers leaves the company, suggesting that churn is not random but driven by underlying factors.
 3. Contract Type is the Main Driver of Churn
 Customers with month-to-month contracts are 6.3x more likely to churn compared to others.
-💡 Lack of long-term commitment significantly increases churn risk.
+* Lack of long-term commitment significantly increases churn risk.
 4. Customer Tenure is a Critical Factor
 Lower tenure increases churn probability by 1.8x.
-💡 Churn is concentrated in the early stages of the customer lifecycle, highlighting onboarding as a key improvement area.
+* Churn is concentrated in the early stages of the customer lifecycle, highlighting onboarding as a key improvement area.
 5. Social and Behavioral Factors
 - Customers without a partner: 1.68x more likely to churn
 - Customers with multiple lines: 1.14x more likely to churn
-💡 These variables suggest that customer engagement and usage patterns influence retention.
+* These variables suggest that customer engagement and usage patterns influence retention.
 6. Revenue Distribution Highlights Value of Retained Customers
 Active customers generate significantly more revenue than churned customers.
-💡 Churn not only reduces customer count but also impacts long-term revenue (Customer Lifetime Value).
+* Churn not only reduces customer count but also impacts long-term revenue (Customer Lifetime Value).
 
 ## Business Recommendations
 
